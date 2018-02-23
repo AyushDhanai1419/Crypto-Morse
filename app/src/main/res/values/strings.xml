@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Crypto Morse</string>
+    <string name="type_or_paste_your_text_here">Type or paste your text here!</string>
+    <string name="convert_to_morse">Convert To Morse</string>
+    <string name="morse_code">Morse Code</string>
+    <string name="type_or_paste_your_code_here">Type or paste your code here!</string>
+    <string name="convert_to_words">Convert To Words</string>
+    <string name="words">Words</string>
+</resources>
